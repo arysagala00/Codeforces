@@ -1,2 +1,2 @@
 # Codeforces
-Codeforces answer problemset
+Answers for Codeforces Problem Set (All Accepted)
