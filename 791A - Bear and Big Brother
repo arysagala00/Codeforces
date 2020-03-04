@@ -1,0 +1,16 @@
+#include<iostream>
+ 
+using namespace std;
+ 
+int main(){
+	int totN=0,totM=0;
+	cin >> totN;
+	cin >> totM;
+	int i=0;
+	while(totN<=totM){
+		totN*=3;
+		totM*=2;
+		i++;
+	}
+	cout << i;	
+}
